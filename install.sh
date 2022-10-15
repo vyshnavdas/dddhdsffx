@@ -3,7 +3,6 @@
 clear
 echo "Script created by kacppy"
 sleep 5
-sudo
 apt-get update
 apt-get -y install python3
 apt-get -y install python3-pip
